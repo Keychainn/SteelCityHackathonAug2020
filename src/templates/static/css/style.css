@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+.previewContainer{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  }
+  
+.reward1{
+  width: 75%;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  text-align: center;
+  margin: 5%;
+}
+  
+.reward2{
+  width: 81%;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  text-align: center;
+  margin: 5%;
+  margin-left: 3%;
+}
+
+.reward3{
+  width: 90%;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  text-align: center;
+  margin: 5%;
+}
+
+  p{
+    display: inline;
+  }
+
+  nav{
+    position: sticky;
+    top: 0;
+    padding: 70px;
+  }   
+
+  .text {
+    color: black;
+    font-family: 'Roboto';
+    font-weight: lighter;
+    
+  }
+
+  .heroBanner {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: -20px,;
+  }
+  
+  .imageText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  .padElement {
+    background-color: white;
+    padding: 40px;
+  }
+  
+/* tracker.css code below */
+
+#myProgress {
+  width: 85%;
+  background-color: grey;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: black;
+  color: white;
+  margin: 5%;
+}
+
+.tracker-bottom {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-column-gap: 5%;
+}
+
+body {
+  background-color: #ACABB0;
+} 
