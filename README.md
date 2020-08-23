@@ -1,6 +1,6 @@
 # SteelCityHackathonAug2020
 
-This is the repository for all code made by us during the August 21-23 [Steel City](https://www.steelcitycodes.org/hackathon.html) Hackathon.
+This is the repository for all code made by us during the August 21-23 [Steel City](https://www.steelcitycodes.org/hackathon.html) Hackathon. Note that API key was revoked to preserve privacy.
 
 ## Inspiration
 One pressing problem students experience, especially during virtual learning and the pandemic, is staying active. In school, students have mandatory Physical Education class, but the motivation to exercise during remote learning and social distancing falls off dramatically. So the challenge for us was: How can we encourage people to stay active while still maintaining social distancing rules? Our solution was Walk The World. Since many tourist destinations are now closed, such as museums or national parks, we decided to offer virtual visits as an end “reward” for walking, with various cultural landmarks along the way. In fact, we joked that it’s somewhat similar to Pokémon Go, one of our big inspirations. We realized this web app could help non-students as well, as they can have an incentive to exercise during the pandemic while learning about regional cultures and landmarks.
